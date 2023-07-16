@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OnlineSessions.cpp.obj": [
+			"Menu.gen.cpp.obj",
+			"MultiplayerSessionsSubsystem.gen.cpp.obj",
+			"OnlineSessions.init.gen.cpp.obj",
+			"Menu.cpp.obj",
+			"MultiplayerSessionsSubsystem.cpp.obj",
+			"OnlineSessions.cpp.obj"
+		]
+	}
+}

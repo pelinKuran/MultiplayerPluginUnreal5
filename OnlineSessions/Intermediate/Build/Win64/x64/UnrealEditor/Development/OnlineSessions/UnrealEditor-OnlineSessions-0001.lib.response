@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineSessions-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\game\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\MenuSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"E:\game\Unreal Projects\MenuSystem\Plugins\OnlineSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSessions\Module.OnlineSessions.cpp.obj"
+"E:\game\Unreal Projects\MenuSystem\Plugins\OnlineSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSessions\Default.rc2.res"
+/OUT:"E:\game\Unreal Projects\MenuSystem\Plugins\OnlineSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSessions\UnrealEditor-OnlineSessions-0001.lib"
